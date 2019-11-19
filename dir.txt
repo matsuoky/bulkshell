@@ -1,0 +1,3 @@
+/Users/me/dev/tool/my_repo1
+/Users/me/dev/tool/my_repo2
+/Users/me/dev/tool/my_repo3
